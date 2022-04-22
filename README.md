@@ -1,2 +1,2 @@
 # TEST-REPO
-This reposity is for test-only
+This reposity is for test only
