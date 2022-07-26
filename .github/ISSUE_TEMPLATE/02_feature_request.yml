@@ -1,5 +1,5 @@
 name: Feature 请求
-describtion: 为这个项目提出一个建议
+describtion: "为这个项目提出一个建议"
 title: "[Feature request]: "
 labels: ['enhancement']
 body: 
