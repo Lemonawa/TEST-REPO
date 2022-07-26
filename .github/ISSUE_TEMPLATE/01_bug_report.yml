@@ -47,8 +47,7 @@ body:
       description: 否则请更新后尝试
       options:
         - label: 是
-    validations:
-      required: true
+        - required: true
   - type: checkboxes
     id: "issues"
     attributes:
@@ -56,5 +55,4 @@ body:
       description: 否则请查询后提出
       options:
         - label: 是
-    validations:
-      required: true
+        - required: true
